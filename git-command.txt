@@ -1,0 +1,2 @@
+Git command -- The basic Git
+-- git status => check git status
